@@ -1,2 +1,2 @@
-# Projeto-de-Rede---Plano-de-Endere-amento
+# Projeto de Redes - Configuração de Vlans
 Projeto Rede de Computadores
